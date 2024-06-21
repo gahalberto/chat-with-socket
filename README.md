@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de um README.md para o seu projeto:
-
 ```markdown
 # Chat with Web Sockets
 
@@ -52,9 +50,6 @@ One of the biggest challenges was ensuring the system could correctly manage the
 
 ## Impact and Results
 This project serves as a clear example of my backend skills, particularly in creating real-time applications. It demonstrates my ability to use modern technologies to build effective and robust solutions, preparing me to tackle complex challenges in larger projects.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Thanks to the open-source community for providing the tools and libraries used in this project.
